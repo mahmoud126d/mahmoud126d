@@ -7,7 +7,7 @@
 
 ## 💻 My Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=swift,apple,firebase,kotlin,java,c,cpp,git,github,linkedin,vscode,mysql,android,postman" />
+  <img src="[https://skillicons.dev/icons?i=swift,apple,firebase,kotlin,java,c,cpp,git,github,linkedin,vscode,mysql,android,postman](https://skillicons.dev/icons?i=swift,apple,firebase,kotlin,java,c,cpp,git,github,linkedin,vscode,mysql,androidstudio,postman)" />
 </p>
 
 <!--
