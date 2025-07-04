@@ -1,9 +1,10 @@
 ## Hi there 👋
 <p align="center">
   <a href="https://github.com/mahmoud-salah">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hey%2C+This+is+Mahmoud%F0%9F%91%8B;iOS+%26+An+iOS+Developer;ITI Graduate;Electrical+Engineer+Graduate&center=true&width=440&height=45&color=00BFFF&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hey%2C+this+is+Mahmoud+%F0%9F%91%8B;Mobile+Developer+(iOS+%26+Android);ITI+Graduate;Electrical+Engineering+Background;Always+Learning&center=true&width=500&height=45&color=00BFFF&vCenter=true&size=22">
   </a>
 </p>
+
 
 <!--
 **mahmoud126d/mahmoud126d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
