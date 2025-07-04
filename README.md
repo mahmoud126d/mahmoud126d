@@ -11,7 +11,7 @@
 
 ## ✉️ Where to find me?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![My CV](https://img.shields.io/badge/My%20CV-000000?style=for-the-badge)](https://your-cv-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoudsalah-md)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmouud.salah2@gmail.com)
+[![My CV](https://img.shields.io/badge/My%20CV-000000?style=for-the-badge)](https://drive.google.com/file/d/10damPUxMWFIh4Q19rgjx3bhJp4QTpu-y/view?usp=sharing)
 
