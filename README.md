@@ -5,6 +5,9 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=swift,kotlin,java,dart,flutter,androidstudio,xcode,git,github,vscode,c,cpp" />
+</p>
 
 <!--
 **mahmoud126d/mahmoud126d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
