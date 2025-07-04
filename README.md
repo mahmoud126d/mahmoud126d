@@ -5,8 +5,9 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,kotlin,java,dart,flutter,androidstudio,xcode,git,github,vscode,c,cpp" />
+## 💻 My Skills
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=swift,apple,firebase,kotlin,java,c,cpp,git,github,linkedin,vscode,mysql,android,postman" />
 </p>
 
 <!--
