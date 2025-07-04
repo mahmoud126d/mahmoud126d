@@ -1,7 +1,7 @@
 ## Hi there 👋
 <p align="center">
   <a href="https://github.com/mahmoud-salah">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Mobile+Developer;iOS+%26+Android+Enthusiast;Reverse+Engineering+Lover;Always+Learning&center=true&width=440&height=45&color=00BFFF&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hey%2C+This+is+Mahmoud%F0%9F%91%8B;iOS+%26+Android+Enthusiast;Reverse+Engineering+Lover;Always+Learning&center=true&width=440&height=45&color=00BFFF&vCenter=true&size=22">
   </a>
 </p>
 
